@@ -68,13 +68,13 @@ In order to be eligible to be a Organization project, a project must:
 
 Amendments to this charter, the [antitrust policy](./ANTITRUST.md), the [trademark policy](./TRADEMARKS.md), or the [code of conduct](./CODE-OF-CONDUCT.md) may only be made with at least a 3/4 affirmative vote of the Steering Committee.
 
-**9.1. Officers and Duties**. Once a year the Steering Committee will conduct a vote for the following officers:
+**9.1 Officers and Duties**. Once a year the Steering Committee will conduct a vote for the following officers:
 
-* **Chair**.  The Chair's main duty is to chair meetings set out in an bi-laws established.  The Chair gives overall leadership to the Steering Committee and should ensure that the Steering Committee understands its role and responsibilities, the Steering Committee understands and debates the vision and mission, and Steering Committee meetings are effectively run and that decisions are taken and minuted.
+* **Chair**. The Chair's main duty is to chair Steering Committee meetings. The Chair gives overall leadership to the Steering Committee, and should ensure that the Steering Committee understands its role, responsibilities, and debates its mission. The Chair also ensures that Steering Committee meetings are effectively run and that decisions are taken and minuted.
 
-* **Vice Chair**. In the event of the Chair being absent at a meeting, the Vice Chair must undertake all chairing duties and ensure the objectives of the meeting are met. The Vice Chair may deputize for the chair in all other duties as required.
+* **Vice Chair**. In the event of the Chair being absent, the Vice Chair must undertake all chairing duties and ensure the objectives of the meeting are met. The Vice Chair may deputize for the Chair in all other duties as required.
 
-* **Secretary**. The Secretary ensures that board meetings run smoothly, records detail meeting minutes that capture all key points, and distributes minutes to all Steering Committee members within a week of the meeting. The Secretary also schedules and prepare invitations for meetings, and creates agendas according to the organization’s bylaws and distributes them to members, along with any supporting documentation.
+* **Secretary**. The Secretary ensures that Steering Committee meetings run smoothly, records detail minutes that capture all key points of Steering Committee meetings, and distributes minutes to all Steering Committee members within a week of the meeting. The Secretary also schedules and prepares invitations for Steering Committee meetings, and creates agendas according to the organization’s bylaws and distributes them to Steering Committee members, along with any supporting documentation.
 
 ---
 Part of MVG-0.1-beta.
