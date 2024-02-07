@@ -30,7 +30,7 @@ The Steering Committee will appoint a Chair responsible for organizing Steering 
 
 **3.3 Voting**: The Steering Committee Chair will call a vote to the Steering Committee. Any discussion may be conducted in person or electronically by text, voice, or video. The discussion will be open to the public. In any vote, each voting representative will have one vote. Except as specifically noted elsewhere in this Charter, for a vote to pass quorum, there needs to be a simple majority (50% + 1) of the total voting membership. When a vote is taken, all members who are present and entitled to vote must choose 1 of 3 options: Yes, No, or Abstain. There must be more "yes" votes than "no" votes in order for a motion to be carried. If there is a tie, the motion is not carried. 
 
-**3.4 Proxy Vote**: In the case where a member may not be able to attend, they can elect to use a proxy vote. The person designated as a proxy will cast a proxy vote in line with the member’s directions. At this time, the proxy must attend the meeting and be an employee of the same company.
+**3.4 Proxy Vote**: In the case where a member may not be able to attend, they can elect to use a proxy vote. The person designated as a proxy will cast a proxy vote in line with the member’s directions. The proxy must attend the meeting and be an employee of the same company.
 
 **3.5 Delaying vote**: After the discussion of a motion, if members deem that there needs to be more evaluation/amendment, then they can put forth a call to delay the vote. 
 
