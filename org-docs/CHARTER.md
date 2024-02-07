@@ -26,7 +26,16 @@ The Steering Committee will appoint a Chair responsible for organizing Steering 
 
 **3.1. Decision Making**. The Steering Committee will strive for all decisions to be made by consensus. While explicit agreement of the entire Steering Committee is preferred, it is not required for consensus. Rather, the Steering Committee will determine consensus based on their good faith consideration of a number of factors, including the dominant view of the Steering Committee and nature of support and objections. The Steering Committee will document evidence of consensus in accordance with these requirements. If consensus cannot be reached, the Steering Committee will make the decision by a vote.
 
-**3.2. Voting**. The Steering Committee Chair will call a vote with reasonable notice to the Steering Committee, setting out a discussion period and a separate voting period. Any discussion may be conducted in person or electronically by text, voice, or video. The discussion will be open to the public. In any vote, each voting representative will have one vote. Except as specifically noted elsewhere in this Charter, decisions by vote require a simple majority vote of all voting members.
+**3.2 Voting Quorum**: A quorum must be present in order for a committee meeting to convene or for any vote to be official. A quorum consists of 1 member from each company. 
+
+**3.3 Voting**: The Steering Committee Chair will call a vote to the Steering Committee. Any discussion may be conducted in person or electronically by text, voice, or video. The discussion will be open to the public. In any vote, each voting representative will have one vote. Except as specifically noted elsewhere in this Charter, for a vote to pass quorum, there needs to be a simple majority (50% + 1) of the total voting membership. When a vote is taken, all members who are present and entitled to vote must choose 1 of 3 options: Yes, No, or Abstain. There must be more "yes" votes than "no" votes in order for a motion to be carried. If there is a tie, the motion is not carried. 
+
+**3.4 Proxy Vote**: In the case where a member may not be able to attend, they can elect to use a proxy vote. The person designated as a proxy will cast a proxy vote in line with the member’s directions. At this time, the proxy must attend the meeting and be an employee of the same company.
+
+**3.5 Delaying vote**: After the discussion of a motion, if members deem that there needs to be more evaluation/amendment, then they can put forth a call to delay the vote. 
+
+**3.5 Chairperson Voting**: Chairpersons have the same voting rights as other members and are not afforded extra rights. Chairpersons’ votes come out of those allotted to the company. 
+
 
 ## 4. Termination of Membership
 
