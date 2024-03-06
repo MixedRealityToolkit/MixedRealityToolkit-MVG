@@ -32,9 +32,7 @@ The Steering Committee will appoint a Chair responsible for organizing Steering 
 
 **3.4 Proxy Vote**. In the case where a member may not be able to attend, they can elect to use a proxy vote. The person designated as a proxy will cast a proxy vote in line with the member’s directions. The proxy must attend the meeting and be an employee of the same Affiliated Organization. 
 
-**3.5 Delaying Vote**. After the discussion period, if a Steering Committee deems that there needs to be more evaluation, they can put forth a motion to delay the vote. 
-
-**3.6 Officer Voting**. All Steering Committee members have the equal voting rights, regardless of officer status. Steering Committee members’ votes come out of those allotted to the Affiliated Organization.
+**3.5 Officer Voting**. All Steering Committee members have the equal voting rights, regardless of officer status. Steering Committee members’ votes come out of those allotted to the Affiliated Organization.
 
 ## 4. Termination of Membership
 
