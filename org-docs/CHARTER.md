@@ -22,6 +22,19 @@ MRTK3 is the next generation of MRTK, focused using OpenXR where applicable and 
 Voting members may be added or removed by no less than 3/4 affirmative vote of the Steering Committee.
 The Steering Committee will appoint a Chair responsible for organizing Steering Committee activity.
 
+**2.2.1 Representation Guidelines*** Representation on the Steering Committee is evaluated by the sitting Steering Committee members based on the following guidelines. 
+
+**Platform Holders** Platform holders are alotted two voting representatives and meet the following criteria.
+
+* Own a platform / SDK that enables XR experiences; tracking, interaction, environmental recognition
+* Manufacture / sell an XR chipset and/or dedicated XR device
+* Has a significant presence in the XR market.
+
+**Technology Enablers** Technology enablers are alotted one voting member and meet the following criteria
+
+* Develops technology that enables a specific component that can be used in XR experiences
+* Has a significant presence in the market for their technology component. 
+
 ## 3. Voting
 
 **3.1. Decision Making**. The Steering Committee will strive for all decisions to be made by consensus. While explicit agreement of the entire Steering Committee is preferred, it is not required for consensus. Rather, the Steering Committee will determine consensus based on their good faith consideration of a number of factors, including the dominant view of the Steering Committee and nature of support and objections. The Steering Committee will document evidence of consensus in accordance with these requirements. If consensus cannot be reached, the Steering Committee will make the decision by a vote.
