@@ -10,6 +10,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 | Mike Pinkin     | mapinkin      | Magic Leap              |
 | Dave Kline      | david-c-kline | Qualcomm                |
 | Kurtis Eveleigh | keveleigh     | Qualcomm                |
+| Max Palmer      | MaxPalmer-UH  | Ultraleap               |
 
 ---
 Part of MVG-0.1-beta.
