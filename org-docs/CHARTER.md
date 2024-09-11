@@ -22,7 +22,7 @@ MRTK3 is the next generation of MRTK, focused using OpenXR where applicable and 
 Voting members may be added or removed by no less than 3/4 affirmative vote of the Steering Committee.
 The Steering Committee will appoint a Chair responsible for organizing Steering Committee activity.
 
-**2.2.1 Representation Guidelines*** Representation on the Steering Committee is evaluated by the sitting Steering Committee members based on the following guidelines. 
+**2.2.1 Representation Guidelines**. Representation on the Steering Committee is evaluated by the sitting Steering Committee members based on the following guidelines. 
 
 **Platform Holders** Platform holders are alotted two voting representatives and meet the following criteria.
 
