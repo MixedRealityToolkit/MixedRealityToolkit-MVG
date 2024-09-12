@@ -8,7 +8,6 @@ This document lists the members of the Organization's Steering Committee. Voting
 | Adam Mollis     | AMollis       | Microsoft               |
 | Grace Hsu       | gCode100      | Magic Leap              |
 | Mike Pinkin     | mapinkin      | Magic Leap              |
-| Dave Kline      | david-c-kline | Qualcomm                |
 | Kurtis Eveleigh | keveleigh     | Qualcomm                |
 | Max Palmer      | MaxPalmer-UH  | Ultraleap               |
 
