@@ -22,18 +22,12 @@ MRTK3 is the next generation of MRTK, focused using OpenXR where applicable and 
 Voting members may be added or removed by no less than 3/4 affirmative vote of the Steering Committee.
 The Steering Committee will appoint a Chair responsible for organizing Steering Committee activity.
 
-**2.2.1 Representation Guidelines**. Representation on the Steering Committee is evaluated by the sitting Steering Committee members based on the following guidelines. 
+**2.2.1 Representation Guidelines**. Representation on the Steering Committee is evaluated by the sitting Steering Committee members based on the following guidelines.
 
-**Platform Holders** Platform holders are alotted two voting representatives and meet the following criteria.
-
-* Own a platform / SDK that enables XR experiences; tracking, interaction, environmental recognition
-* Manufacture / sell an XR chipset and/or dedicated XR device
-* Has a significant presence in the XR market.
-
-**Technology Enablers** Technology enablers are alotted one voting member and meet the following criteria
-
-* Develops technology that enables a specific component that can be used in XR experiences
-* Has a significant presence in the market for their technology component. 
+| Category | Guidelines |
+| -------- | ---------- |
+| Platform Holders | Platform holders are allotted two voting representatives and meet the following criteria:<ul><li>Own a platform / SDK that enables XR experiences; tracking, interaction, environmental recognition</li><li>Manufacture / sell an XR chipset and/or dedicated XR device</li><li>Has a significant presence in the XR market</li></ul> |
+| Technology Enablers | Platform holders are allotted two voting representatives and meet the following criteria:<ul><li>Develops technology that enables a specific component that can be used in XR experiences</li><li>Has a significant presence in the market for their technology component</li></ul> |
 
 ## 3. Voting
 
@@ -41,9 +35,9 @@ The Steering Committee will appoint a Chair responsible for organizing Steering 
 
 **3.2 Voting**. The Steering Committee Chair will call a vote with reasonable notice to the Steering Committee, setting out a discussion period and a separate voting period. If there is no objection from Steering Committee members, the Chairperson may commence the voting period immediately following the discussion period. Any discussion may be conducted in person or electronically by text, voice, or video. The discussion will be open to the public. In any vote, each voting representative will have one vote. All voting members who are present for the vote must choose 1 of 3 options: Yes, No, or Abstain. Except as specifically noted elsewhere in this Charter, decisions by vote require more "yes" votes than "no" votes.
 
-**3.3 Voting Quorum**. A quorum must be present in order for a vote to be official. A quorum consists of 1 member from each Affiliated Organization. 
+**3.3 Voting Quorum**. A quorum must be present in order for a vote to be official. A quorum consists of 1 member from each Affiliated Organization.
 
-**3.4 Proxy Vote**. In the case where a member may not be able to attend, they can elect to use a proxy vote. The person designated as a proxy will cast a proxy vote in line with the member’s directions. The proxy must attend the meeting and be an employee of the same Affiliated Organization. 
+**3.4 Proxy Vote**. In the case where a member may not be able to attend, they can elect to use a proxy vote. The person designated as a proxy will cast a proxy vote in line with the member’s directions. The proxy must attend the meeting and be an employee of the same Affiliated Organization.
 
 **3.5 Officer Voting**. All Steering Committee members have the equal voting rights, regardless of officer status. Steering Committee members’ votes come out of those allotted to the Affiliated Organization.
 
