@@ -26,7 +26,7 @@ The Steering Committee will appoint a Chair responsible for organizing Steering 
 
 | Category | Guidelines |
 | -------- | ---------- |
-| Platform Holders | Platform holders are allotted two voting representatives and meet the following criteria:<ul><li>Own a platform / SDK that enables XR experiences; tracking, interaction, environmental recognition</li><li>Manufacture / sell an XR chipset and/or dedicated XR device</li><li>Has a significant presence in the XR market</li></ul> |
+| Platform Holders | Platform holders are allotted two voting representatives and meet the following criteria:<ul><li>Owns a platform / SDK that enables XR experiences; tracking, interaction, environmental recognition</li><li>Manufactures / sells an XR chipset and/or dedicated XR device</li><li>Has a significant presence in the XR market</li></ul> |
 | Technology Enablers | Platform holders are allotted two voting representatives and meet the following criteria:<ul><li>Develops technology that enables a specific component that can be used in XR experiences</li><li>Has a significant presence in the market for their technology component</li></ul> |
 
 ## 3. Voting
