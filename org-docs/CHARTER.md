@@ -26,7 +26,7 @@ The Steering Committee will appoint a Chair responsible for organizing Steering 
 
 **3.1. Decision Making**. The Steering Committee will strive for all decisions to be made by consensus. While explicit agreement of the entire Steering Committee is preferred, it is not required for consensus. Rather, the Steering Committee will determine consensus based on their good faith consideration of a number of factors, including the dominant view of the Steering Committee and nature of support and objections. The Steering Committee will document evidence of consensus in accordance with these requirements. If consensus cannot be reached, the Steering Committee will make the decision by a vote.
 
-**3.2 Voting**. The Steering Committee Chair will call a vote with reasonable notice to the Steering Committee, setting out a discussion period and a separate voting period. If there is no objection from Steering Committee members, the Chairperson may commence the voting period immediately following the discussion period. Any discussion may be conducted in person or electronically by text, voice, or video. The discussion will be open to the public. In any vote, each voting representative will have one vote. All voting members who are present for the vote must choose 1 of 3 options: Yes, No, or Abstain. Except as specifically noted elsewhere in this Charter, decisions by vote require more "yes" votes than "no" votes.
+**3.2 Voting**. The Steering Committee Chair will call a vote with reasonable notice to the Steering Committee, setting out a discussion period and a separate voting period. If there is no objection from Steering Committee members, the Chairperson may commence the voting period immediately following the discussion period. Any discussion may be conducted in person or electronically by text, voice, or video. The discussion will be open by invitation and the meeting notes will be published publicly. In any vote, each voting representative will have one vote. All voting members who are present for the vote must choose 1 of 3 options: Yes, No, or Abstain. Except as specifically noted elsewhere in this Charter, decisions by vote require more "yes" votes than "no" votes.
 
 **3.3 Voting Quorum**. A quorum must be present in order for a vote to be official. A quorum consists of 1 member from each Affiliated Organization. 
 
@@ -74,7 +74,7 @@ In order to be eligible to be a Organization project, a project must:
 
 Amendments to this charter, the [antitrust policy](./ANTITRUST.md), the [trademark policy](./TRADEMARKS.md), or the [code of conduct](./CODE-OF-CONDUCT.md) may only be made with at least a 3/4 affirmative vote of the Steering Committee.
 
-**9.1 Officers and Duties**. Every six months, the Steering Committee will conduct a vote for the following officers:
+**9.1 Officers and Duties**. Every 12 months, the Steering Committee will conduct a vote for the following officers:
 
 * **Chair**. The Chair's main duty is to chair Steering Committee meetings. The Chair gives overall leadership to the Steering Committee, and should ensure that the Steering Committee members understand the roles and responsibilities, and debate its mission. The Chair also ensures that Steering Committee meetings are effectively run, and that decisions are made and properly recorded.
 
