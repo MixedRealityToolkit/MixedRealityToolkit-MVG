@@ -4,7 +4,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 
 | Name            | Alias           | Affiliated Organization |
 |-----------------|-----------------|-------------------------|
-| Scott Haynie    | shaynie         | Microsoft               |
+| Jackie Curley   | jackiecurley    | Microsoft               |
 | Chris Oje       | whitetigerhelix | Microsoft               |
 | Grace Hsu       | gCode100        | Magic Leap              |
 | Mike Pinkin     | mapinkin        | Magic Leap              |
