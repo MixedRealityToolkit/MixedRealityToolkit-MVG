@@ -5,7 +5,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 | Name            | Alias         | Affiliated Organization |
 |-----------------|---------------|-------------------------|
 | Scott Haynie    | shaynie       | Microsoft               |
-| Adam Mollis     | AMollis       | Microsoft               |
+| Chris Oje       | chroje        | Microsoft               |
 | Grace Hsu       | gCode100      | Magic Leap              |
 | Mike Pinkin     | mapinkin      | Magic Leap              |
 | Kurtis Eveleigh | keveleigh     | Qualcomm                |
