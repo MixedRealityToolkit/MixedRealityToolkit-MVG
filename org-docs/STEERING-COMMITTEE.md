@@ -9,6 +9,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 | Grace Hsu       | gCode100        | Magic Leap              |
 | Mike Pinkin     | mapinkin        | Magic Leap              |
 | Kurtis Eveleigh | keveleigh       | Qualcomm                |
+| Simon Steiner   | simon-ign       | Qualcomm                |
 | Max Palmer      | MaxPalmer-UH    | Ultraleap               |
 
 ---
