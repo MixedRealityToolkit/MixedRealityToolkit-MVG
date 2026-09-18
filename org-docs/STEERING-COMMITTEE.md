@@ -7,6 +7,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 | Jackie Curley   | jackiecurley    | Microsoft               |
 | Chris Oje       | whitetigerhelix | Microsoft               |
 | Grace Hsu       | gCode100        | Magic Leap              |
+| \[vacant\]      | \[vacant\]      | Magic Leap              |
 | Kurtis Eveleigh | keveleigh       | Qualcomm                |
 | Simon Steiner   | simon-ign       | Qualcomm                |
 | Max Palmer      | MaxPalmer-UH    | Ultraleap               |
